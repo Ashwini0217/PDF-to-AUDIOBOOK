@@ -1,0 +1,2 @@
+# PDF-to-AUDIOBOOK
+Created a PDF to audio book converter using PYTHON. The purpose of this project is to make time more utilizable while they are in their early morning walking or in a transit to work through public transport or even while you are travelling. You can convert your e-books or a reserch paper to audio and listen to it rather than using a physical laptop or a phone in hand to read those books.
